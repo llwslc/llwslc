@@ -11,6 +11,12 @@
 
 <p align="center">
   <a href="https://llws.lc">
+    <img src="https://github-profile-trophy.vercel.app/?username=llwslc&theme=radical&row=1" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://llws.lc">
     <img alt="llwslc"
       src="https://github-readme-streak-stats.herokuapp.com/?user=llwslc&theme=monokai-metallian&hide_border=true" />
   </a>
@@ -21,7 +27,6 @@
     <img height="150"
       src="https://github-readme-stats.vercel.app/api?username=llwslc&count_private=true&show_icons=true&custom_title=llwslc's%20Github%20Status&hide=issues&theme=vision-friendly-dark" />
   </a>
-
 </p>
 
 <p align="center">
