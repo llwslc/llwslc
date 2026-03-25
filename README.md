@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=llwslc&theme=radical&row=1" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=llwslc&theme=radical&row=1" />
 </p>
 
 <p align="center">
